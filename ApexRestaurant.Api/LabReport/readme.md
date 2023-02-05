@@ -152,11 +152,11 @@ The specific details of the request and response (such as the URL endpoint, the 
 5. Build the project to ensure there are no errors.
 
 # Outputs:
-![]()
-![]()
-![]()
-![]()
-![]()
+![](https://github.com/manishchaulagain1/ApexRestaurant/blob/main/ApexRestaurant.Api/LabReport/Screenshot%20(36).png)
+![](https://github.com/manishchaulagain1/ApexRestaurant/blob/main/ApexRestaurant.Api/LabReport/Screenshot%20(37).png)
+![](https://github.com/manishchaulagain1/ApexRestaurant/blob/main/ApexRestaurant.Api/LabReport/Screenshot%20(38).png)
+![](https://github.com/manishchaulagain1/ApexRestaurant/blob/main/ApexRestaurant.Api/LabReport/Screenshot%20(39).png)
+![](https://github.com/manishchaulagain1/ApexRestaurant/blob/main/ApexRestaurant.Api/LabReport/Screenshot%20(35).png)
 
 # Conclusion:
 On this lab, we learned how to set up the connection and test the API using Postman. Understanding various request methods and status codes with particular messages.
