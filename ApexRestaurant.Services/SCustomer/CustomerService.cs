@@ -3,11 +3,10 @@ using ApexRestaurant.Repository.RCustomer;
 
 namespace ApexRestaurant.Services.SCustomer
 {
-public class CustomerService : GenericService<Customer>, ICustomerService
-{
-public CustomerService(ICustomerRepository customerRepository) : base(customerRepository)
-{
-
-}
-}
+    public class CustomerService : GenericService<Customer>, ICustomerService
+    {
+        public CustomerService(ICustomerRepository customerRepository) : base(customerRepository)
+        {
+        }
+    }
 }

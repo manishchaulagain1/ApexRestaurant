@@ -10,13 +10,13 @@ using Microsoft.Extensions.DependencyInjection;
 namespace ApexRestaurant.Services {
     public static class ServicesModule {
         public static void Register (IServiceCollection services) {
-            services.AddTransient<ICustomerService, CustomerService> ();
-            services.AddTransient<IMealService, MealService> ();
-            services.AddTransient<IMealDishService, MealDishService> ();
-            services.AddTransient<IMenuService, MenuService> ();
-            services.AddTransient<IMenuItemService, MenuItemService> ();
-            services.AddTransient<IStaffService, StaffService> ();
-            services.AddTransient<IStaffRoleService, StaffRoleService> ();
+            services.AddTransient<ICustomerService, CustomerService>();
+            services.AddTransient<IMealService, MealService>();
+            services.AddTransient<IMealDishService, MealDishService>();
+            services.AddTransient<IMenuService, MenuService>();
+            services.AddTransient<IMenuItemService, MenuItemService>();
+            services.AddTransient<IStaffService, StaffService>();
+            services.AddTransient<IStaffRoleService, StaffRoleService>();
         }
     }
 }
